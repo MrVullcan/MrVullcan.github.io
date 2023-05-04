@@ -1,0 +1,9 @@
+h1 {
+    color: rgb(5, 125, 23);
+    text-shadow: rgb(255, 255, 255) 0 6px;
+  }
+
+body {
+    background: linear-gradient(220.55deg, #FFEAF6 0%, #ffb4ea 100%);
+  }
+  
